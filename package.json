@@ -14,9 +14,23 @@
     "ao api",
     "ao"
   ],
-  "author": "Yankı Küçük",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0"
-  }
+  },
+  "engines": {
+    "node": ">=12.4.0"
+  },
+  "homepage": "https://github.com/kendinikertenkelebek/albionjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendinikertenkelebek/albionjs.git",
+    "bugs": {
+      "url": "https://github.com/kendinikertenkelebek/albionjs/issues"
+    }
+  },
+  "author": "Yankı Küçük <kendinikertenkelebek@me.com> (https://github.com/kendinikertenkelebek)",
+  "contributors": [
+    "Yankı Küçük <kendinikertenkelebek@me.com>"
+  ],
+  "license": "Apache-2.0"
 }
