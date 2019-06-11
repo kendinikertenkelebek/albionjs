@@ -1,0 +1,22 @@
+{
+  "name": "albionjs",
+  "version": "1.0.0",
+  "description": "Albion Online API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "albion online",
+    "albion",
+    "albion api",
+    "albion online api",
+    "ao api",
+    "ao"
+  ],
+  "author": "Yankı Küçük",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
